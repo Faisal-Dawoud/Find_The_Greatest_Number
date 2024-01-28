@@ -26,8 +26,6 @@ cout << number_Three << " Is the greatest number";
 } else if (number_Two > number_Three) 
 {
 cout << number_Two <<" is the greatest numbers";
-} else if (number_Two >= number_Three) {
-    cout << number_Three << " is the greatest number";
 } else
 cout << number_Three << " is the greatest number";
 
